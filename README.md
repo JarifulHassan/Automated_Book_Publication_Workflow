@@ -25,24 +25,8 @@ This project implements an **Automated Book Publication Workflow** using web scr
 
 ```
 
-automated\_book\_publisher/
-├── main.py                     #  Main pipeline to run entire flow
-├── ai\_writer.py                # Rewrite chapter using Gemini
-├── requirements.txt            #  Required dependencies
-├── README.md                   #  Documentation
-│
-├── utils/
-│   └── scraping.py             #  Scrape chapter + screenshot using Playwright
-│
-├── gui/
-│   └── reviewer.py             #  Tkinter-based editor
-│
-├── db/
-│   └── knowledge.py            #  ChromaDB operations
-│
-├── data/                       #  Raw HTML files
-├── output/                     #  Final reviewed chapters
-└── screenshots/                #  Screenshots of pages
+![image](https://github.com/user-attachments/assets/dfa0f614-a268-44e4-878a-f52478940452)
+
 
 ````
 
