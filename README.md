@@ -113,15 +113,6 @@ screenshots/
 ├── chapter1_screenshot.png   # Screenshot of original page
 ```
 
----
-
-###  Deadline & Notes
-
-* **Submission Deadline:** 22 June 2025
-* **Note:** This project is for evaluation only. No commercial use intended. Developer retains full ownership.
-
----
-
 ###  Requirements (via `requirements.txt`)
 
 Key libraries:
