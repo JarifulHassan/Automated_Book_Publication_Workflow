@@ -1,0 +1,16 @@
+# Core Python libraries
+beautifulsoup4==4.12.3
+requests==2.31.0
+
+# AI & LLM Integration
+google-generativeai==0.5.4
+
+# GUI Review Tool
+tk==0.1.0  # Built-in but specify if required
+
+# Web Scraping (Playwright)
+playwright==1.43.0
+# ChromaDB & Semantic Search
+chromadb==0.4.24
+overrides==7.7.0
+
