@@ -13,7 +13,7 @@ if __name__ == "__main__":
     scrape_and_screenshot(url)
 
     print("[✓] Configuring Gemini...")
-    API_KEY = "AIzaSyAyquhd-oe4G4wP2GRdWuK95Vdvjdt8QJA"
+    API_KEY = "Enter you gemni api key here"
     configure_gemini(API_KEY)
 
     # Load HTML content
